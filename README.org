@@ -1,2 +1,2 @@
-#+html: <p align="center"><img src=".github/raiden.jpg" width="460" /></p>
+#+html: <p align="center"><img src=".github/raiden.jpg" width="260" /></p>
 #+html: <p align="center"><strong>Raiden.</strong> An attack injection framework for Veins, built on SUMO.</p>
