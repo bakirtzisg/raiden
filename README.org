@@ -1,2 +1,30 @@
 #+html: <p align="center"><img src=".github/raiden.jpg" width="260" /></p>
-#+html: <p align="center"><strong>Raiden.</strong> An attack injection framework for Veins, built on SUMO.</p>
+#+html: <p align="center"><strong>Raiden.</strong> An attack injection framework for Veins, which builds on SUMO.</p>
+
+** Getting Started
+
+   Raiden has been tested on the standard Veins 5.0 OVA
+   for Virtualbox 6.1.
+
+*** Veins
+
+    The project relies on [[https://veins.car2x.org/][Veins]], the easiest way
+    to run Veins repeatably is
+    to download the instant OVA used with Virtualbox.
+    You could also install [[https://github.com/eclipse/sumo/][SUMO]], [[https://omnetpp.org/][OMNeT++]], and Veins
+    from [[https://veins.car2x.org/tutorial/][scratch]].
+
+*** Raiden
+
+    Clone this repo at some location where it makes sense.
+
+    🎉 🎉 🎉 🎉 🎉
+
+**** Quickstart
+
+     Table with types of attacks/how to run them
+
+** Authors
+
+   Georgios Bakirtzis (bakirtzis@virginia.edu) [[http://bakirtzis.net][bakirtzis.net]]
+   Christos Tsoukaladelis (tsoukchris@gmail.com)
